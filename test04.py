@@ -38,8 +38,8 @@ print(List)
 
 #เอาออกแค่ตัวแรกที่เจอ
 List.remove(10)
-List.remove('SAU')
-List.remove(['10,20,30'])
+List.remove(20)
+List.remove([10,20,30])
 print(List)
 
 List.pop()

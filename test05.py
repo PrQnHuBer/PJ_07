@@ -33,5 +33,5 @@ print(Tuple)
 #Tuple functions
 
 print(Tuple.count(10))
-print(Tuple.index["SAU"])
+print(Tuple.index("IOT"))
 
